@@ -2,8 +2,8 @@
 These are my fastai 2018 course's notebook from Google Colab
 
 ### Lesson 1 Notebook
-Using pretrained models for classifying dogs and cats
-<p>Notebook is [here]
+Using pretrained models for classifying dogs and cats.
+Notebook is [here](https://github.com/neelkamalsb/DeepLearningWithFastai/blob/master/Lesson1FULL%20(1).ipynb)
   
 ### Dog Breeds Challenge
 Applying thing learnt in Lesson 1 and checking results with different architectures.
